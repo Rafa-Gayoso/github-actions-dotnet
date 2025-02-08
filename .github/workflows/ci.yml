@@ -28,3 +28,4 @@ jobs:
         with:
           name: dometrain-artifact
           path: artifacts/
+          retention-days: 5
